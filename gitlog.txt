@@ -1,0 +1,17 @@
+commit d0fb994f92553eab5524fcb81139f168eb0fe7d0
+Author: SarahRGr <sarah.rose.gratton@gmail.com>
+Date:   Wed Jan 15 15:34:33 2020 +0000
+
+    added gitignore
+
+commit 7db44ae189df9bda624cea0db897bfb0efd9439b
+Author: SarahRGr <sarah.rose.gratton@gmail.com>
+Date:   Tue Jan 14 19:45:41 2020 +0000
+
+    added two files
+
+commit 9f58d90c7877cd608320f0ed83ec929ae1e47962
+Author: SarahRGr <sarah.rose.gratton@gmail.com>
+Date:   Tue Jan 14 19:42:21 2020 +0000
+
+    added readme.txt
