@@ -1,28 +1,25 @@
-# This is a large heading
+# Sarah Gratton
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Sheffield, in the United Kingdom.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I am currently reading:
 
-Here is `some code` in the middle of a sentence.
+- *Sapiens* by Yuval Noah Harari
+- *How Bad Are Bananas?* by Mike Berners-Lee
+- *Project Sunshine* by Steve McKevitt and Tony Ryan
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I am considering the following dinner options:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Stir-Fry
+2. Cottage Pie
+3. Paneer Curry
+
+### Link
+
+You can find information about the *S. cerevisiae* genome on [the SGD website](http://www.yeastgenome.org)
